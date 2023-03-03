@@ -44,7 +44,7 @@
 
 <!-- Git Status -->
 <p align="center">
-    <a href="#">
+    <!-- <a href="#">
         <img src="https://komarev.com/ghpvc/?username=Richu-Antony">
     </a>
     <a href="#">
@@ -61,7 +61,7 @@
     </a>
     <a href="#">
         <img src="https://img.shields.io/github/followers/Richu-Antony?label=Followers" alt="GitHub Badge">
-    </a>
+    </a> -->
 </p>
 
 
